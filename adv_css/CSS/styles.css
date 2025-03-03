@@ -1,0 +1,84 @@
+body{background-color:darkseagreen}
+
+
+#container {background-color: white;
+width: 65%;
+margin: 20px auto;
+border: 2px solid black;
+padding: 20px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 700px;
+}
+nav {
+    text-align: center;
+    margin: 20px  0;
+    background-color:rgb(110, 210, 110);
+    padding: 5px;
+    border-radius: 20px;
+
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0%;
+}
+nav li {
+    display: inline-block;
+}
+nav li a {
+display: block;
+color: white;
+font-size: 36px;
+font-weight: bold;
+text-decoration: none;
+margin: 0% 20px;
+width: 125px;
+height: 40px;
+line-height: 40px;
+}
+
+nav a:hover {
+    background-color: white;
+    color: black;
+}
+
+#banner {
+    display: block;
+    margin: 0%;
+    width: 100%;
+}
+.headingstyle {
+    text-shadow: 2px 1px 2px rgb(0, 255, 0);
+}
+
+.fishing {
+    width: 75%;
+}
+
+.fix {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+#page1main {
+    display: flex;
+}
+
+#c1 {
+    width: 50%;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+#c2 {
+    width: 50%;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+h1,h2,h3,h4,footer {text-align: center;}
